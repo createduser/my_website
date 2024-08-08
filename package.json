@@ -9,11 +9,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vicons": "^0.0.1",
     "vue": "^3.4.31"
   },
   "devDependencies": {
-    "@vicons/fluent": "^0.12.0",
     "@vitejs/plugin-vue": "^5.0.5",
     "naive-ui": "^2.39.0",
     "typescript": "^5.2.2",
